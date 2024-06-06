@@ -1,4 +1,4 @@
-# Git Course
+# DevOps Course for mini kids
 
 Добро пожаловать на курс по DevOps! Этот курс поможет вам освоить основы работы с основным стеком. Курс состоит из следующих модулей и также будет регулярно дополняться:
 
@@ -35,6 +35,6 @@
 
 ## Домен GitHub Pages
 
-Курс доступен онлайн по адресу: [https://yourusername.github.io/git-course](https://yourusername.github.io/git-course)
+Курс доступен онлайн по адресу: [https://whoareyousora.github.io/devops-course-for-mini-kids](https://whoareyousora.github.io/devops-course-for-mini-kids)
 
-Замените `yourusername` на ваше имя пользователя на GitHub.
+Замените `whoareyousora` на ваше имя пользователя на GitHub.
